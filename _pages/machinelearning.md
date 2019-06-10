@@ -1,5 +1,5 @@
 ---
-layour:archive
+layout: archive
 permalink: machine learning
 title: "Machine Learning"
 ---
