@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /machinelearning/
+permalink: /machine-learning/
 title: "Machine Learning"
 ---
 {% include base_path %}
