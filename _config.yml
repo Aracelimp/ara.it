@@ -15,7 +15,7 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "Jalisco, Mexico"
 title                    : "Ara IT & ML"
 title_separator          : "-"
 name                     : "Araceli Medina"
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Araceli Medina "
-  avatar           : "/images/brain.png"
+  avatar           : #"/images/brain.png"
   bio              : "I am an amazing person."
   location         : "Somewhere"
   email            :
