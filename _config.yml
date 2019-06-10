@@ -106,8 +106,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Araceli Medina "
+  avatar           : "/images/brain.png"
   bio              : "I am an amazing person."
   location         : "Somewhere"
   email            :
