@@ -12,11 +12,11 @@
 
 theme                  : "minimal-mistakes-jekyll"
 #remote_theme             : "remote_theme: "mmistakes/minimal-mistakes@4.16.4""
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    :  "air", #"default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "Jalisco, Mexico"
-title                    : "Ara IT & ML"
+title                    : "Ara tech blog"
 title_separator          : "-"
 name                     : "Araceli Medina"
 description              : "ML study guide and a little bit on IT."
@@ -107,17 +107,17 @@ analytics:
 # Site Author
 author:
   name             : "Araceli Medina "
-  avatar           : #"/images/brain.png"
+  avatar           : "/images/ara.png"
   bio              : "Electronic engineer, IT experience, on the Data Science track, Crafter, Oaxaqueña"
   location         : "Jalisco, México"
   email            :
   links:
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.linkedin.com/in/aracelimedina/"
+        url: "https://www.linkedin.com/in/aracelimedina/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/AraceliMepi/"
+        url: "https://twitter.com/AraceliMepi/"
 
 # Site Footer
 footer:

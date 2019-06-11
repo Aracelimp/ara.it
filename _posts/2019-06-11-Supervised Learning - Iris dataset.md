@@ -1,6 +1,6 @@
 ---
 title: "Supervised Learning, The iris dataset"
-date: 2019-07-11
+date: 2019-06-11
 tags: [machine learning, supervised learning, iris dataset]
 header:
     image:"/images/irisversicolor.jpg"
