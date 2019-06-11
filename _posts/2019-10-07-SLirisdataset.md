@@ -1,5 +1,5 @@
 ----
-title: ""
+title: "Supervised Learning, The iris dataset"
 date: 2019-10-07
 tags: [machine learning, supervised learning, iris dataset]
 header:
