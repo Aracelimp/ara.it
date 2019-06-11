@@ -1,9 +1,9 @@
 # main links
 main:
+  - title: "Machine Learning"
+    url: /machine-learning/
   - title: "About"
     url: /about/
-  - title: "machine-learning"
-    url: /machinelearning/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
